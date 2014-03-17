@@ -1,0 +1,6 @@
+[base]
+xml_dir=../data
+dest_dir=data/
+thread_num=50
+
+

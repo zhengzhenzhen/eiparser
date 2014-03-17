@@ -1,0 +1,8 @@
+.backup*
+data*
+build*
+
+
+*~
+*.swp
+
